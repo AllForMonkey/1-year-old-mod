@@ -1,0 +1,23 @@
+item.monkeyite.name=Monkeyite
+
+tile.monkeyite_ore.name=Monkeyite Ore
+tile.monkeyite_block.name=Monkeyite Block
+tile.monkeyite_stairs.name=Monkeyite Stairs
+tile.monkeyite_slab_half.name=Monkeyite Slab
+tile.monkeyite_slab_double.name=Monkeyite Double Slab
+tile.monkeyite_fence.name=Monkeyite Fence
+tile.monkeyite_fence_gate.name=Monkeyite Fence Gate
+tile.monkeyite_button.name=Monkeyite Button
+tile.monkeyite_pressure_plate.name= Monkeyite Pressure Plate
+
+itemGroup.monkeystufftab=Monkey Stuff
+
+item.monkeyite_boots.name=Monkeyite Boots
+item.monkeyite_leggings.name=Monkeyite Leggings
+item.monkeyite_chestplate.name=Monkeyite Chestplate
+item.monkeyite_helmet.name=Monkeyite Mask
+
+item.monkeyite_pickaxe.name=Monkeyite Pickaxe
+item.monkeyite_axe.name=Monkeyite Axe
+item.monkeyite_shovel.name=Monkeyite Shovel
+item.monkeyite_sword.name=Monkeyite Sword

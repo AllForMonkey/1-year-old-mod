@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ms",
+  "name": "MonkeyStuff",
+  "description": "MonkeyStuff.",
+  "version": "0.1",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DeadMonkey2016"],
+  "credits": "To the monkey himself",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

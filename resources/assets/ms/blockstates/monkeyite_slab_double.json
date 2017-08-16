@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "ms:monkeyite_block" },
+        "half=bottom": { "model": "ms:monkeyite_block" }
+    }
+}

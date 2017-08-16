@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "ms:monkeyite_slab_bottom" },
+        "half=top": { "model": "ms:monkeyite_slab_top" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "ms:blocks/monkeyite_top",
+        "front": "ms:blocks/monkeyite_face_off",
+        "side": "ms:blocks/monkeyite_side"
+    }
+}
